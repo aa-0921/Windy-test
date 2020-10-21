@@ -121,7 +121,7 @@ ul.wi-container li.wi-move {
   height: 42px;
   margin: 0 4px;
   float: left;
-  background: url(../images/nav.png) no-repeat 100% 0;
+  background: url(../windy-images/nav.png) no-repeat 100% 0;
   text-indent: -9000px;
   cursor: pointer;
   -webkit-user-select: none;
